@@ -1,4 +1,4 @@
-## Contribution Guidelines
+# Contribution Guidelines
 
 Hey there, fellow scripter! Thank you for your interest in contributing to the Bash Blaze challenge! Here are some guidelines to follow while making your contribution:
 
